@@ -1,0 +1,84 @@
+body{
+    background-color: lightgreen;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: verdana;
+    
+}
+p {
+    text-align: justify;
+    color: black;
+    font-size: 25px;
+    font-family: times-new-roman;
+    margin: 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: green;
+}
+table, th, td {
+    border: 1px solid blue;
+    text-align: center;
+    
+}
+q {
+    font-size: 30px;
+    font-family: fantasy;
+    
+}
+#header_img01 {
+    width: 851px;
+    height: 315px;
+}
+#li_about {
+    float: right;
+}
+#flag_img {
+    width: 320px;
+    height: 213px;
+}
+#para_01 {
+    font-style: oblique;
+}
+#img_isl {
+    width: 658px;
+    height: 359px;
+}
+#karachi_img {
+    width: 640px;
+    height: 290px;
+}
+#img_lhr {
+    width: 680px;
+    height: 500px;
+}
+#img_talit {
+    width: 600px;
+    height: 450px;
+}
+#para_roll_number {
+    text-align: center;
+}
